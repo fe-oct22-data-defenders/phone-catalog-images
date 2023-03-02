@@ -1,1 +1,1 @@
-# phone-catalog-images
+# Phone photo catalog
